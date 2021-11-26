@@ -26,6 +26,7 @@ public class Sum_of_digits {
 		
 		System.out.println(temp);
 		//System.out.println(rev);
+		System.out.println("hi");
 	}
 
 }
