@@ -3,7 +3,7 @@ package java_practice;
 public class Sentence_reverse {
 
 	public static void main(String[] args) {
-		String sen="25 din mein paisa double";
+		String sen="i'm from banglore";
 		String[] str = sen.split(" ");
 		int len = str.length;
 		String rev="";
